@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437434038717",
+    "project_id": "mystore-c241c",
+    "storage_bucket": "mystore-c241c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437434038717:android:cf31cfeb036aaea3703ad4",
+        "android_client_info": {
+          "package_name": "com.example.sunnysideup_evijayantiyonardi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437434038717-c42n03vqacago2f3k8mo70ipsrnb68hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL1jh_RO8Cfwx1sMBI0qa-XBQKsgcEBqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437434038717-c42n03vqacago2f3k8mo70ipsrnb68hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
